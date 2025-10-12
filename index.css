@@ -1,0 +1,11 @@
+.destacado {
+    background-color: yellow;
+     font-style: italic;
+    padding: 10px;
+}
+
+#tituloPrincipal {
+    font-size: 2.5sem;
+    color: darkblue;
+    border: 1px solid black;
+}
